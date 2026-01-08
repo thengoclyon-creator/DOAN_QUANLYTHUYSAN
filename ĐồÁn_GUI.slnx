@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ĐồÁn_BUS/ĐồÁn_BUS.csproj" Id="e0a8eabd-7c94-4aed-9411-5969f2872751" />
+  <Project Path="ĐồÁn_DAL/ĐồÁn_DAL.csproj" Id="991f990f-6fdb-4a1c-9ac9-0edfab5e2358" />
+  <Project Path="ĐồÁn_GUI/ĐồÁn_GUI.csproj" Id="3975bc95-e894-4065-abd6-2b73b70c11c9" />
+</Solution>
