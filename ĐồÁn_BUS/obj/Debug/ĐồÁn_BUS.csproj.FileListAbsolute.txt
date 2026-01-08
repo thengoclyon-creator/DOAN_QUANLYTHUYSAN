@@ -1,0 +1,15 @@
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_BUS.dll.config
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_BUS.dll
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_BUS.pdb
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\EntityFramework.dll
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\EntityFramework.SqlServer.dll
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_DAL.dll
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_DAL.pdb
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\ĐồÁn_DAL.dll.config
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\EntityFramework.xml
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\bin\Debug\EntityFramework.SqlServer.xml
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\obj\Debug\ĐồÁn_BUS.csproj.AssemblyReference.cache
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\obj\Debug\ĐồÁn_BUS.csproj.CoreCompileInputs.cache
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\obj\Debug\ĐồÁn_BUS.csproj.Up2Date
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\obj\Debug\ĐồÁn_BUS.dll
+F:\DO AN\-n_GUI-master\-n_GUI-master\ĐồÁn_BUS\obj\Debug\ĐồÁn_BUS.pdb
